@@ -1,0 +1,7 @@
+@import "/assets/css/main.css";
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Code+Latin:wght@400;500;600&family=Ropa+Sans&display=swap');
+
+
+* {
+  font-family: 'Ropa Sans', sans-serif;
+}

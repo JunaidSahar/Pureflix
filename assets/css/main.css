@@ -1,0 +1,20 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@layer base {
+  a, h1, h4{
+    font-family: 'Ropa Sans', sans-serif;
+  }
+  p {
+    font-family: 'Ropa Sans', sans-serif;
+  }
+  .logo  {
+    font-family: 'Ropa Sans', sans-serif;
+  }
+  .logo-secondary {
+    font-family: 'M PLUS Code Latin', sans-serif;
+  }
+}
